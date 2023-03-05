@@ -55,7 +55,7 @@ body {
 
 /* --Modal-- */
 /* ....start scroll animation.... */
-/* .hidden {
+.hidden {
     opacity: 0;
     filter: blur(1px);
     transform: translate(-100%);
@@ -66,7 +66,7 @@ body {
     opacity: 1;
     filter: blur(0);
     transform: translate(0);
-} */
+}
 
 /* ....end scroll animation.... */
 /* --home-- */
